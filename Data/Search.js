@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Getting Ready/History of humans in space.htm'],s:['000','pulvinar'],p:[['000',8],['enough',11],['naturally',16],['the',7]]});
